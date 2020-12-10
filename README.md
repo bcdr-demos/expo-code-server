@@ -22,7 +22,7 @@ docker run -it --name code-server12 \
   bencdr/expo-dev:latest
 ```
 
-You can also publish ports `19000` and `19001` if you don't want to use Expo's tunnel. In this case, the QR code may not work and you will have to manually enter the `exp://` address on your phone with the public IP.
+You can also publish ports `19000` and `19001` if you don't want to use Expo's tunnel. In this case, the QR code may not work and you will have to manually enter the `exp://` address on your device with the public IP.
 
 ## Start developing
 
