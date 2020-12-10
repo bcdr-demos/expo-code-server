@@ -1,12 +1,14 @@
 # expo-dev
 
-A code-server image packaged for expo development. What it includes:
+A code-server image packaged for expo development. 
 
+
+## Tools included:
 - code-server
 - NodeJS (12+)
 - expo-cli
 
-## Starting Coder
+## Starting code-server
 
 ```bash
 mkdir -p ~/.config
